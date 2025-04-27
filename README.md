@@ -22,10 +22,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![TheHalestormHunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehalestormhunter&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-> _"Script hard, dream harder."_ 🔥
+> _"Security is an illusion. Privacy is a construct."_ 🔥
